@@ -1,0 +1,9 @@
+[[plugins]]
+package = "@netlify/plugin-gatsby"
+
+[build.environment]
+NODE_VERSION = "18.13"
+
+[context.main]
+[context.main.environment]
+GATSBY_IS_PROD = "true"
