@@ -7,7 +7,7 @@
 
 ## First steps
 
-- Add the .env variabels a .env.development file
+- Add the .env variabels in a .env.development file
 
 ## Install project
 
